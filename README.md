@@ -7,7 +7,7 @@ This projects creates a ETL process with data files about music stream
 ### Fact table
 songplays
 ### Dim table
-![Alt text](data/uda_data_model_diagram.png)
+![Alt text](data/data_model_diagram.png)
 
 
 ## ETL Process
